@@ -73,19 +73,24 @@ The most common fallacies and their brief explanations.
 __Logical Order (逻辑顺序)__
 
 - [Ad Hominem (人身攻击)](#ad_hominem)
-    - [Genetic Fallacy (根源谬论)](#genetic_fallacy)
+    - [Genetic Fallacy (根源谬误)](#genetic_fallacy)
     - [Guilt by Association (牵连犯罪)](#guilt_by_association)
     - [Tu Quoque (你也一样)](#tu_quoque)
     - [Two Wrongs Make a Right (负负得正)](#two_wrongs_make_a_right)
+- [Ambiguity (模棱两可)](#ambiguity)
 - [Appeal to Emotion (诉诸感情)](#appeal_to_emotion)
 - [Appeal to Ignorance (诉诸无知)](#appeal_to_ignorance)
+- [Bandwagon (乐队花车)](#bandwagon)
+- [Begging the Question (窃取论点)](#begging_the_question)
+- [Complex Question (复合问题)](#complex_question)
 - [Fallacy Fallacy (谬误谬误)](#fallacy_fallacy)
-- [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
+- [False Cause Fallacy (归因谬误)](#false_cause_fallacy)
     - [Common Cause Fallacy (共因谬误)](#common_cause_fallacy)
     - [Cum Hoc Fallacy (随此归因谬误)](#cum_hoc_fallacy) 
     - [Post Hoc Fallacy (后此归因谬误)](#post_hoc_fallacy)
     - [Regression Fallacy (回归谬误)](#regression_fallacy)
     - [Reverse Causality (因果倒置)](#reverse_causality)
+- [Gambler's Fallacy (赌徒谬误)](#gamblers_fallacy)
 - [Slippery Slope (滑坡谬误)](#slippery_slope)
 - [Special Pleading (诡辩术)](#special_pleading)
 - [Straw Man (稻草人)](#straw_man)
@@ -94,16 +99,23 @@ __Alphabetic Order (字母顺序)__
 
 - [A](#a)
     - [Ad Hominem (人身攻击)](#ad_hominem)
+    - [Ambiguity (模棱两可)](#ambiguity)
     - [Appeal to Emotion (诉诸感情)](#appeal_to_emotion)
     - [Appeal to Ignorance (诉诸无知)](#appeal_to_ignorance)
+- [B](#b)
+    - [Bandwagon (乐队花车)](#bandwagon)
+    - [Begging the Question (窃取论点)](#begging_the_question)
+    - [Burden of Proof (举证责任)](#burden_of_proof)
 - [C](#c)
     - [Common Cause Fallacy (共因谬误)](#common_cause_fallacy)
+    - [Complex Question (复合问题)](#complex_question)
     - [Cum Hoc Fallacy (随此归因谬误)](#cum_hoc_fallacy) 
 - [F](#f)
     - [Fallacy Fallacy (谬误谬误)](#fallacy_fallacy)
-    - [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
+    - [False Cause Fallacy (归因谬误)](#false_cause_fallacy)
 - [G](#g)
-    - [Genetic Fallacy (根源谬论)](#genetic_fallacy)
+    - [Gambler's Fallacy (赌徒谬误)](#gamblers_fallacy)
+    - [Genetic Fallacy (根源谬误)](#genetic_fallacy)
     - [Guilt by Association (牵连犯罪)](#guilt_by_association)
 - [P](#p)
     - [Post Hoc Fallacy (后此归因谬误)](#post_hoc_fallacy)
@@ -167,9 +179,34 @@ from a woman who isn't married, was once arrested, and smells a bit weird.
 ### Relevant Fallacy
 
 __01__ [Guilt by Association (牵连犯罪)](#guilt_by_association)
-__02__ [Genetic Fallacy (根源谬论)](#genetic_fallacy)
+__02__ [Genetic Fallacy (根源谬误)](#genetic_fallacy)
 __03__ [Tu Quoque (你也一样)](#tu_quoque)
 __04__ [Two Wrongs Make a Right (负负得正)](#two_wrongs_make_a_right)
+
+<div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
+
+
+
+
+
+
+---
+
+<a id="ambiguity"></a>
+
+## Ambiguity (模棱两可)
+
+### Definition
+
+Amphiboly is ambiguity of syntax. Equivocation is ambiguity of semantics. Accent is ambiguity of emphasis.
+Amphiboly是指语法模糊，Equivocation是指语义模糊，Accent是指重音模糊。
+
+Using double meanings or ambiguities of language to mislead or misrepresent the truth. Politicians are often guilty of using ambiguity to mislead and will later point to how they were technically not outright lying if they come under scrutiny. It's a particularly tricky and premeditated fallacy to commit.
+利用双关语或者是模棱两可的语言去误导别人或是歪曲事实。政客们常常为自己的模棱两可的言论造成的误导表示歉意，随后他们会指出，如果他们的言论有被监管和审核，那么严格来说，他们并不能完全算是在撒谎。这是一种常见的狡猾有预谋的去犯的谬误。
+
+### Example
+When the judge asked the defendant why he hadn't paid his parking fines, he said that he shouldn't have to pay them because the sign said 'Fine for parking here' and so he naturally presumed that it would be fine to park there.
+当法官问被告人为什么他不付停车罚款，他说他不应该付这笔罚款，因为标志上写的是"停在这里 没问题/要被罚款" (fine: adj.好的; vt.罚款)，所以他就很自然的认为停在这里没问题。
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -239,6 +276,106 @@ Nobody has ever proved to me there's a God, so I know there is no God. (This kin
 
 ---
 
+<a id="b"></a>
+
+## B
+
+<div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
+
+
+
+
+
+
+---
+
+<a id="bandwagon"></a>
+
+## Bandwagon (乐队花车)
+
+> __Ad Novitatem__ (_Appeal to Novelty_)
+> __Ad Populum__ (_Appeal to Popularity_)
+
+### Definition
+
+Appealing to popularity or the fact that many people do something as an attempted form of validation. The flaw in this argument is that the popularity of an idea has absolutely no bearing on its validity. If it did, then the Earth would have made itself flat for most of history to accommodate this popular belief.
+诉诸潮流或者是大众行为，试图将其作为证实某种想法是否有效的证据。这种观点的瑕疵在于一个想法的流行程度完全不能对其有效性产生影响。如果可以，那么为了迎合当时盛行的观念，地球在历史上的大部分时间里就都把自己变成平的了。
+
+If you suggest that someone's claim is correct simply because it's what most everyone is coming to believe, then you're are using the Bandwagon Fallacy. Get up here with us on the wagon where the band is playing, and go where we go, and don't think too much about the reasons. 
+如果你仅仅是因为大多数人会相信某人所说的观点，你就认为这个观点是对的，那么你的想法就存在着乐队花车谬误。跟着我们上这架乐队花车，去我们去的地方，不要想太多个中缘由。
+
+### Example
+
+[Advertisement] More and more people are buying sports utility vehicles. It is time you bought one, too. (Bandwagon Fallacy needs to be carefully distinguished from properly defending a claim by pointing out that many people have studied the claim and have come to a reasoned conclusion that it is correct. If one defends a claim on those grounds, this is not a fallacious inference. What is fallacious is to be swept up by the excitement of a new idea or new fad and to unquestionably give it too high a degree of your belief solely on the grounds of its new popularity, perhaps thinking simply that 'new is better.' The key ingredient that is missing from a bandwagon fallacy is knowledge that an item is popular because of its high quality.)
+[广告]越来越多的人们正在购买SUV，是时候你也买一辆了。(类似于诉诸人民，在乐队花车谬误上，需要小心的分辨某个观点能否通过指出"多数人是通过学习研究后，根据逻辑推理得出这个观点是正确的"来为自身辩护。如果一个人以此为据为某个观点进行辩护，那么这并不是一个谬误的推论。能够成为谬误的观点通常都是被兴奋席卷的新观点，新风尚，仅仅是基于新的潮流或者"新的就是好的"的观点，就给予其过高的认可度。在乐队花车谬误中缺失的关键因素就是关于一个产品流行是因为其质量高的理解。)
+
+<div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
+
+
+
+
+
+
+---
+
+<a id="begging_the_question"></a>
+
+## Begging the Question (窃取论点)
+
+> __Circular Reasoning__
+
+### Definition
+
+The fallacy of Begging the Quesiton is happened when a conclusion is derived from premises that presuppose the conclusion. Normally, the point of good reasoning is to start out at one place and end up somewhere new, namely having reached the goal of increasing the degree of reasonable belief in the conclusion. The point is to make progress, but in cases of begging the question there is no progress.
+窃取论点谬误发生在当某个结论的推导是建立在那些以该结论作为预设条件而得出的结论之上时。通常来说，在一个好的推理里很重要的一点就是它起始于某一点并结束于另外一个新的点，字面上来说就是，就是实现了增加结论逻辑可信度的目标。关键点就在于要实现进步，但是在窃取论点谬误里，不存在这种进步的关系。
+
+### Example
+
+"Women have rights," said the Bullfighters Association president. "But women shouldn't fight bulls because a bullfighter is and should be a man." (The president is saying basically that women shouldn't fight bulls because women shouldn't fight bulls. This reasoning isn't making any progress.
+)
+"女性拥有诸多权利"，斗牛士协会主席说到，"但是女人不能去斗牛，因为斗牛士应该是男的。" (这个主席说的话基本上就是因为女人不应该去斗牛，所以女人不应该去斗牛，这个推理并没有任何进步。)
+
+<div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
+
+
+
+
+
+
+---
+
+<a id="burden_of_proof"></a>
+
+## Burden of Proof (举证责任)
+
+### Definition
+
+The Burden of Proof fallacy is trying to get someone else to prove you are wrong, when it is your responsibility to prove you are correct.
+举证责任谬误就是试图让其他人去证明你是错的，但是这其实是你的责任去证明自己是对的。
+
+### Example
+
+Person A: I saw a green alien from outer space.
+Person B: What!? Can you prove it?
+Person A: You can't prove I didn't.
+(If someone says, “I saw a green alien from outer space,” you properly should ask for some proof. If the person responds with no more than something like, “Prove I didn’t,” then they are not accepting their burden of proof and are improperly trying to place it on your shoulders.)
+A: 我看到一个来自外太空的绿色外星人。
+B: 什么！？你能证明吗？
+A：你也不能证明我不能证明。
+(如果一个人说"我看到一个来自外太空的绿色外星人。"，你理应会去要那个人给出证据。如果那个人给出的回应只是"证明我不能"，那么他们就是不愿意接受自己的举证责任，并且不恰当的试图把责任转移到你的肩上。)
+
+Bertrand declares that a teapot is, at this very moment, in orbit around the Sun between the Earth and Mars, and that because no one can prove him wrong his claim is therefore a valid one.
+Bertrand说那个茶壶在这此时所处的绕太阳的轨迹在地球和火星之间，而且因为没人能证明他是错的，那么他所说的就是合理的。
+
+<div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
+
+
+
+
+
+
+---
+
 <a id="c"></a>
 
 ## C
@@ -261,7 +398,7 @@ Nobody has ever proved to me there's a God, so I know there is no God. (This kin
 ### Definition
 
 It is a kind of __[False Cause Fallacy](#false_cause_fallacy)__.
-这是__[归因缪误](#false_cause_fallacy)__的一种。
+这是__[归因谬误](#false_cause_fallacy)__的一种。
 
 This fallacy occurs during causal reasoning when a causal connection between two kinds of events is claimed when evidence is available indicating that both are the effect of a common cause.
 该谬误是发生在有足够的证据显示一个因果关系中的两个事件都是一个共同原因的结果。
@@ -276,7 +413,38 @@ It seems that every time empty beer cans are piled up in a car, an accident occu
 
 ### Relevant Fallacy
 
-__00__ [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
+__01__ [False Cause Fallacy (归因谬误)](#false_cause_fallacy)
+
+<div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
+
+
+
+
+
+
+---
+
+<a id="complex_question"></a>
+
+## Complex Question (复合问题)
+
+> __Plurium Interrogationum__ (_of many questions_)
+> __Loaded Question__
+
+### Definition
+
+The fallacy of Complex Question is to frame a question so that some controversial presupposition is made by the wording of the question.The presupposition is a proposition that is presumed to be acceptable to the respondent when the question is asked. The respondent becomes committed to this proposition when he gives any direct answer.
+复合问题谬误是通过构建一个问题，问题的措辞里包含了许多有争议的预设条件。预设条件是指当问题提出时，对于回应者而言可以接受的条件。回应者就会在给出直接回答同时便是自己承认这个预设条件的成立。
+
+### Example
+
+[Reporter's question] Mr. President: Are you going to continue your policy of wasting taxpayer's money on missile defense? (The question unfairly presumes the controversial claim that the policy really is a waste of money.)
+[记者提问] 总统先生您好，请问您是否会继续推行把纳税人的钱浪费在国防项目上的政策呢？(这个问题非常不公平的提出一个具有争议的说法，那就是这个政策确确实实在浪费财政收入。)
+
+Grace and Helen were both romantically interested in Brad. One day, with
+Brad sitting within earshot, Grace asked in an inquisitive tone whether Helen
+was having any problems with a fungal infection.
+Grace和Helen都对Brad心生爱慕。有一天，在Brad听力所及的地方，Grace用好奇的语气问Helen是不是有真菌感染的问题。
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -296,13 +464,13 @@ __00__ [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
 ### Definition
 
 It is a kind of __[False Cause Fallacy](#false_cause_fallacy)__.
-这是__[归因缪误](#false_cause_fallacy)__的一种。
+这是__[归因谬误](#false_cause_fallacy)__的一种。
 
 Event A and Event B both happened at the same time. Therefore, Event A caused Event B. 
 事件A和事件B同时发生。因此，事件A导致事件B的发生。
 
 This fallacy doesn't depend on time order (as does the __[Post Hoc Fallacy](#post_hoc_fallacy)__)
-该谬误不依赖于时间顺序(如 __[后此归因缪误](#post_hoc_fallacy)__)
+该谬误不依赖于时间顺序(如 __[后此归因谬误](#post_hoc_fallacy)__)
 
 ### Example
 
@@ -311,7 +479,7 @@ Gypsies live near our low-yield cornfields. So, gypsies must be causing the low 
 
 ### Relevant Fallacy
 
-__00__ [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
+__01__ [False Cause Fallacy (归因谬误)](#false_cause_fallacy)
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -372,7 +540,7 @@ Sidney: 我可不敢苟同
 
 <a id="false_cause_fallacy"></a>
 
-## False Cause Fallacy (归因缪误)
+## False Cause Fallacy (归因谬误)
 
 > __Non Causa Pro Causa__ (_Non-cause for cause_) 
 
@@ -422,9 +590,32 @@ __05__ [Reverse Causality (因果倒置)](#reverse_causality)
 
 ---
 
+<a id="gamblers_fallacy"></a>
+
+## Gambler's Fallacy (赌徒谬误)
+
+### Definition
+
+This fallacy occurs when the gambler falsely assumes that the history of outcomes will affect future outcomes.
+这种谬误发生在一个赌徒错误的认为历史的结果会影响未来的结果。
+
+### Example
+
+I know this is a fair coin, but it has come up heads five times in a row now, so tails is due on the next toss. (The fallacious move was to conclude that the probability of the next toss coming up tails must be more than a half. The assumption that it's a fair coin is important because, if the coin comes up heads five times in a row, one would otherwise become suspicious that it's not a fair coin and therefore properly conclude that the probably is high that heads is more likely on the next toss.)
+我知道这是一个公平的硬币，但是现在它已经连着出现5次正面朝上了，所以接下来的一掷应该是反面朝上。(这个谬误的发生在得出"下一次投掷时，反面朝上的概率会更大"。在这里，关于硬币是公平的假设很重要，因为如果硬币连着出现5次正面朝上的情况，人们就会怀疑硬币不是公平的，基于这种怀疑，能够得出的恰当结论应该是"下一次投掷时，正面朝上的概率会更大"。)
+
+<div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
+
+
+
+
+
+
+---
+
 <a id="genetic_fallacy"></a>
 
-## Genetic Fallacy (根源谬论)
+## Genetic Fallacy (根源谬误)
 
 ### Definition
 
@@ -441,7 +632,7 @@ A critic uses the Genetic Fallacy if the critic attempts to discredit or support
 
 ### Relevant Fallacy
 
-__00__ [Ad Hominem (人身攻击)](#ad_hominem)
+__01__ [Ad Hominem (人身攻击)](#ad_hominem)
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -474,7 +665,7 @@ Secretary of State Dean Acheson is too soft on communism, as you can see by his 
 
 ### Relevant Fallacy
 
-__00__ [Ad Hominem (人身攻击)](#ad_hominem)
+__01__ [Ad Hominem (人身攻击)](#ad_hominem)
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -507,7 +698,7 @@ __00__ [Ad Hominem (人身攻击)](#ad_hominem)
 ### Definition
 
 It is a kind of __[False Cause Fallacy](#false_cause_fallacy)__.
-这是__[归因缪误](#false_cause_fallacy)__的一种。
+这是__[归因谬误](#false_cause_fallacy)__的一种。
 
 Event A happened prior to Event B. Therefore, Event A caused Event B. 
 事件A在事件B之前发生。因此，事件A导致事件B的发生。
@@ -523,7 +714,7 @@ I ate in that Ethiopian restaurant three days ago and now I've just gotten food 
 
 ### Relevant Fallacy
 
-__00__ [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
+__01__ [False Cause Fallacy (归因谬误)](#false_cause_fallacy)
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -556,7 +747,7 @@ __00__ [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
 ### Definition
 
 It is a kind of __[False Cause Fallacy](#false_cause_fallacy)__.
-这是__[归因缪误](#false_cause_fallacy)__的一种。
+这是__[归因谬误](#false_cause_fallacy)__的一种。
 
 This fallacy occurs when regression to the mean is mistaken for a sign of a causal connection. 
 该谬误发生在错误的把回归现象(一般指回归到平均值的现象)当成是某种因果关系的表现形式。
@@ -574,7 +765,7 @@ Some authors use __the Sports Illustrated cover jinx__(The Sports Illustrated co
 
 ### Relevant Fallacy
 
-__00__ [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
+__01__ [False Cause Fallacy (归因谬误)](#false_cause_fallacy)
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -595,7 +786,7 @@ __00__ [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
 ### Definition
 
 It is a kind of __[False Cause Fallacy](#false_cause_fallacy)__.
-这是__[归因缪误](#false_cause_fallacy)__的一种。
+这是__[归因谬误](#false_cause_fallacy)__的一种。
 
 Drawing an improper conclusion about causation due to a causal assumption that reverses cause and effect. (The cause is said to be the effect and vice versa.)
 基于一个将原因和结果互换的因果假设得到一个错误的因果关系的结论。(原因被当成结果，反之亦然。)
@@ -610,7 +801,7 @@ All the corporate officers of Miami Electronics and Power have big boats. If you
 
 ### Relevant Fallacy
 
-__00__ [False Cause Fallacy (归因缪误)](#false_cause_fallacy)
+__01__ [False Cause Fallacy (归因谬误)](#false_cause_fallacy)
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -703,34 +894,19 @@ Jeff: 像往常一样，就是我咖啡里的咖啡因而已。
 ### Definition
 
 Special pleading is a form of inconsistency in which the reasoner doesn't apply his or her principles consistently. It is the fallacy of applying a general principle to various situations but not applying it to a special situation that interests the arguer even though the general principle properly applies to that special situation, too.
+诡辩术的形式是前后矛盾，即推理者对原理和准则的运用方式是不一致的。这种谬误就是将某个普遍原理运用到各种场景中，但是却不运用到辩论者感兴趣的场景里，即使这个普遍原理也同样适用于那个特定的场景。
 
-Example:
+Moving the goalposts or making up exceptions when a claim is shown to be false. Humans are funny creatures and have a foolish aversion to being wrong. Rather than appreciate the benefits of being able to change one's mind through better understanding, many will invent ways to cling to old beliefs.
+当某个观点被认为是错误的时候，就不公平的改变规则(moving the goalposts)或是设置一些特例。人类是一个有趣的物种，对承认错误存在着愚蠢的厌恶感。相较于认识到错误，并且通过对自己观点更好的理解，进而去改变别人的想法，对自己能够从错误中获益而心怀感激，人们更愿意虚构一些理由去支持自己原有的观点。
 
-Everyone has a duty to help the police do their job, no matter who the suspect is. That is why we must support investigations into corruption in the police department. No person is above the law. Of course, if the police come knocking on my door to ask about my neighbors and the robberies in our building, I know nothing. I'm not about to rat on anybody.
-
-In our example, the principle of helping the police is applied to investigations of police officers but not to one's neighbors.
-
-
-
-
-
-Moving the goalposts or making up exceptions when a
-claim is shown to be false.
-Humans are funny creatures and have a foolish aversion to being wrong.
-Rather than appreciate the benefits of being able to change one's mind
-through better understanding, many will invent ways to cling to old beliefs.
-Edward Johns claimed to be psychic, but when his 'abilities' were tested under
-proper scientific conditions, they magically disappeared. Edward explained this
-saying that one had to have faith in his abilities for them to work.
-当你的观点被证明是错误的时候，你用特例来给自己开脱。
-
-人类都不喜欢被证明是错的，所以当他们被证明是错的时候总会想办法给自己开脱。人总是觉得自己以前觉得正确的东西必须是正确的吗，所以总能找到理由让自己阿Q一下。只有诚实和勇敢的人才能面对自己的错误，并且承认自己犯错了。
-
-例子: 小红说自己有特异功能，能用塔罗牌算出未出生小孩的性别，但是孩子生下来后发现猜错了，于是她就说是算命的人缺乏信仰。小红犯了片面谬误。
 
 ### Example
 
+Everyone has a duty to help the police do their job, no matter who the suspect is. That is why we must support investigations into corruption in the police department. No person is above the law. Of course, if the police come knocking on my door to ask about my neighbors and the robberies in our building, I know nothing. I'm not about to rat on anybody. (The principle of helping the police is applied to investigations of police officers but not to one's neighbors.)
+每个人都有义务去帮助警察完成他们的工作，不论犯罪嫌疑人是谁。这就是为什么我们必须支持针对警署内部腐败的调查。没有人是可以凌驾于法律之上的。当然，如果警察来敲我的门，问我关于我邻居和大楼里抢劫犯的问题，我什么都不知道。我并不准备出卖(rat on)任何人。(关于帮助警察的原则适用于针对警官的调查，但是却不适用于我的邻居)
 
+Edward Johns claimed to be psychic, but when his 'abilities' were tested under proper scientific conditions, they magically disappeared. Edward explained this saying that one had to have faith in his abilities for them to work.
+Edward Johns说自己可以通灵，但是当他的"能力"在合理的科学条件下进行检验的时候，它们的魔力就消失了。Edward解释说一个人必须要相信自己的能力，能力才会生效。
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -804,8 +980,6 @@ It is a kind of __[Ad Hominem](#ad_hominem)__.
 The fallacy of Tu Quoque occurs in our reasoning if we conclude that someone's argument not to perform some act must be faulty because the arguer himself or herself has performed it. Similarly, when we point out that the arguer doesn't practice what he or she preaches, and then suppose that there must be an error in the preaching for only this reason, then we are reasoning fallaciously and creating a Tu Quoque.
 你也一样的谬误发生在当我们因为辩论者自身存在某些行为，就得出他/她说某些行为不可为的观点是错误的结论。类似的，当我们指出辩论者并没有做到他/她所说教的那些内容，并且仅凭此认为说教的内容必定存在错误，那么我们就的推理就存在你也一样的谬误。
 
-
-
 Avoiding having to engage with criticism by turning it back on the accuser and answering criticism with criticism.Literally translating as 'you too' this fallacy is commonly employed as an effective red herring because it takes the heat off the accused having to defend themselves and shifts the focus back onto the accuser themselves
 通过将矛头调转，指向批评自己的人，把批评别人作为被别人批评时，自己的回复，避免正面回应别人的批评。确实，这种'你也一样'的谬误非常常见的被用于进行有效的注意力转移(red herring)上，因为这让被告不用再为自己辩护，而是把注意力转移回原告的身上。
 
@@ -816,7 +990,7 @@ Avoiding having to engage with criticism by turning it back on the accuser and a
 
 ### Relevant Fallacy
 
-__00__ [Ad Hominem (人身攻击)](#ad_hominem)
+__01__ [Ad Hominem (人身攻击)](#ad_hominem)
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -846,7 +1020,7 @@ When you defend your wrong action as being right because someone previously has 
 
 ### Relevant Fallacy
 
-__00__ [Ad Hominem (人身攻击)](#ad_hominem)
+__01__ [Ad Hominem (人身攻击)](#ad_hominem)
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -857,22 +1031,10 @@ __00__ [Ad Hominem (人身攻击)](#ad_hominem)
 
 ---
 
-<a id=""></a>
-
-## (------ Undone Beneath ------)
-
-
-
-### Definition
-
-
-
-### Example
-
-
-
-### Relevant Fallacy
-
+<a id="reference"></a>
+# REFERENCE
+1. [Internet Encyclopedia of Philosofhy](http://www.iep.utm.edu/fallacy)
+2. [Your Logical Fallacy Is](http://yourlogicalfallacyis.com)
 
 <div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
 
@@ -954,12 +1116,8 @@ __00__ [Ad Hominem (人身攻击)](#ad_hominem)
 
 
 
----
 
 
-<div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
-
----
 
 
 
@@ -968,97 +1126,11 @@ __00__ [Ad Hominem (人身攻击)](#ad_hominem)
 
 
 
----
 
-
-## loaded question         (诱导性问题)
-
-Asking a question that has an assumption built into it so
-that it can't be answered without appearing guilty.
-Loaded question fallacies are particularly e_ective at derailing rational debates
-because of their inflammatory nature - recipients of a loaded question are
-compelled to defend themselves and may appear flustered or on the back foot.
-Grace and Helen were both romantically interested in Brad. One day, with
-Brad sitting within earshot, Grace asked in an inquisitive tone whether Helen
-was having any problems with a fungal infection.
-你在提出问题的时候加入了诱导的成分，使得对方只能按着你的意思来回答。
-
-你试图用诱导性的问题来逼对方回答你提出的低级问题，从而破坏理性的讨论。
-
-例子: 小红怀疑自己的丈夫孙越搞外遇，为了一探究竟，于是就问他: "陈轩的屁股上是不是有个胎记？"小红使用的就是诱导性问题。
 
 ---
 
 
-## burden of proof         (举证责任)
-
-Saying that the burden of proof lies not with the person
-making the claim, but with someone else to disprove.
-The burden of proof lies with someone who is making a claim, and is not upon
-anyone else to disprove. The inability, or disinclination, to disprove a claim does
-not make it valid (however we must always go by the best available evidence).
-Bertrand declares that a teapot is, at this very moment, in orbit around the
-Sun between the Earth and Mars, and that because no one can prove him
-wrong his claim is therefore a valid one.
-你认为举证责任不在提出观点的人，而在于质疑观点的人。
-
-当有人提出一个观点结果被人质疑后，你认为举证的责任不在提出观点的人，而在质疑者。不能证伪一个事物，或者举出反例，并不能证明这个事物的合理性。当然，如果只因为没有足够的证据说明一个事物是合理的并不能肯定的说明它是不合理的。
-
-例子: 小红说他相信宇宙是一个叫KengDie的全知全能神创造的，因为没有人能证明KengDie不存在，所以KengDie是存在的。小红犯了举证责任的谬误。
-
----
-
-
-## ambiguity               (语义模糊)
-
-Using double meanings or ambiguities of language to
-mislead or misrepresent the truth.
-Politicians are often guilty of using ambiguity to mislead and will later point to
-how they were technically not outright lying if they come under scrutiny.
-It's a particularly tricky and premeditated fallacy to commit.
-When the judge asked the defendant why he hadn't paid his parking fines, he
-said that he shouldn't have to pay them because the sign said 'Fine for parking
-here' and so he naturally presumed that it would be fine to park there.
-你用双关语或者意思存有歧义的语言来歪曲事实。
-
-你使用双关语或者意思存有歧义的语言，当你被别人批评的时候又利用这些有歧义的语言作为自己的挡箭牌。
-
-例子: 地上一个猴，树上qi个猴，一共几个猴？
-
----
-
-
-## the gambler's fallacy   (赌徒谬误)
-
-Believing that 'runs' occur to statistically independent
-phenomena such as roulette wheel spins.
-This commonly believed fallacy can be said to have helped create a city in the
-desert of Nevada USA. Though the overall odds of a 'big run' happening may be
-low, each spin of the wheel is itself entirely independent from the last.
-Red had come up six times in a row on the roulette wheel, so Greg knew that
-it was close to certain that black would be next up. Su_ering an economic
-form of natural selection with this thinking, he soon lost all of his savings.
-你认为随机事物的发生和之前发生的事情是有相关性的。
-
-有人在看到独立的随机事件(比如抛硬币)时，总觉得会和前面的事情有相关性(前面连着五个正面，下一个肯定要是反面了。)
-
----
-
-## bandwagon               (乐队花车)
-
-Appealing to popularity or the fact that many people do
-something as an attempted form of validation.
-The flaw in this argument is that the popularity of an idea has absolutely no
-bearing on its validity. If it did, then the Earth would have made itself flat for
-most of history to accommodate this popular belief.
-Shamus pointed a drunken finger at Sean and asked him to explain how so
-many people could believe in leprechauns if they're only a silly old superstition.
-Sean, however, had had a few too many Guinness himself and fell o_ his chair.
-你试图说明因为很多人都在做同一件事情/相信同一件事物，这件事情就是对的。
-
-一个事物/观点的流行程度和它本身是否合理没有关系。地球是球形的，在人们相信地球是平的时代地球也是球形的，地球才不管你信不信它呢。
-
-例子: 看到《货币战争》那么畅销，小红相信一定是罗斯柴尔德和共济会在背后操纵着整个世界。小红犯了乐队花车谬误。
 
 ---
 
@@ -1252,11 +1324,3 @@ Their friend Alice o_ered a compromise that vaccinations cause some autism.
 
 例子: 小红认为疫苗会造成儿童自闭症，孙越从科学研究的结论中得出结论认为疫苗不会造成儿童自闭症，小明认为两者观点的妥协——疫苗会造成儿童自闭症，但不是全部的儿童自闭症——才是正确的。小明犯了中间立场的谬误。
 
----
-
-<a id="reference"></a>
-# REFERENCE
-1. [Internet Encyclopedia of Philosofhy](http://www.iep.utm.edu/fallacy)
-2. [Your Logical Fallacy Is](http://yourlogicalfallacyis.com)
-
-<div style="text-align: right">[HOME](#home) | [LIST](#list) | [REFERENCE](#reference)</div>
